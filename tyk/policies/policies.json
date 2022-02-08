@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "active": true,
+        "name": "API Policy",
+        "org_id": "1",
+        "quota_max": 5,
+        "quota_remaining": 5,
+        "quota_renewal_rate": 60
+    }
+}
