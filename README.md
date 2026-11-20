@@ -12,3 +12,7 @@ Please add the following lines to your `/etc/hosts`:
 ## Run 
 
 `docker-compose up`
+
+## Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buymeacoffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/santoshshin)
